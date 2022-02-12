@@ -1,4 +1,4 @@
-int[][] maze; //<>// //<>//
+int[][] maze;
 
 void createMaze(int size) {
   size(600, 600);
